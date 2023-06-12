@@ -1,4 +1,4 @@
-Hi, I’m @DamiXioR, C++ Junior Developer.
+Hi, I’m @DamiXioR, C++ Software Engineer.
 
 <!---
 DamiXioR/DamiXioR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
